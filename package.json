@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.928.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "Sample upload service",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "uploader",
+    "upload"
+  ],
+  "author": {
+    "name": "avivashisth",
+    "email": "avivashisth@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:avivashisth/uploader.git"
+  },
+  "license": "MIT"
+}
